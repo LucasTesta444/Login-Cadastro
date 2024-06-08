@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/signin.css">
+    <title>Finnances - SIGN-IN</title>
+</head> 
+<body>
+    <header>
+        <div class="container-header">
+            <h1>Finnances</h1>
+            <div class="register-button">
+                <button id="signupBtn">SIGN IN</button>
+            </div>
+        </div>
+    </header>
+
+    <div id="container" class="container">
+        <div class="form-image">
+            <img src="assets/img/login-animate.svg" alt="login-animate">
+        </div>
+
+        <div class="form">
+            <form id="signin-form">
+                <div class="form-header">
+                    <img src="assets/img/login-animate.svg" alt="login-animate" class="svgDisplay" id="svgDisplay">
+                    <div class="title">
+                        <h2>Login Account</h2>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <div class="input-box">
+                        <img class="icon" src="assets/img/name.svg" alt="username-icon">
+                        <input type="text" name="name" placeholder="Username" id="signin-username" required>
+                    </div>
+                    <div class="input-box">
+                        <img class="icon" src="assets/img/password.svg" alt="name-icon">
+                        <input type="password" name="password" placeholder="Password" id="signin-password" required>
+                    </div>
+                </div>
+
+                <div class="terms-group">
+                    <input type="checkbox" name="terms-checkbox" id="terms-checkbox" required>
+                    <label for="terms-checkbox">Read the security terms</label>
+                </div>
+
+                <div class="button-signin">
+                    <button type="submit">SIGN IN</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal Structure -->
+    <div id="signupModal" class="modal">
+        <div class="form-modal">
+            <form id="signup-form">
+                <div class="form-header-modal">
+                    <img src="assets/img/banner-signin.svg" alt="imagem-svg-sign-in">
+                    <div class="title-modal">
+                        <h2>Create Account</h2>
+                    </div>
+                </div>
+    
+                <div class="input-group-modal">
+                    <div class="input-box-modal">
+                        <img class="icon-modal" src="assets/img/name.svg" alt="username-icon">
+                        <input type="text" name="name" placeholder="Username" id="username" required>
+                    </div>
+                    <div class="input-box-modal">
+                        <img class="icon-modal" src="assets/img/email.svg" alt="email-icon">
+                        <input type="email" name="email" placeholder="Email" id="email" required>
+                    </div>
+                    <div class="input-box-modal">
+                        <img class="icon-modal" src="assets/img/password.svg" alt="password-icon">
+                        <input type="password" name="password" placeholder="Password" id="password" required>
+                    </div>
+                </div>
+    
+                <div class="terms-group-modal">
+                    <input type="checkbox" name="terms-checkbox" id="terms-checkbox" required>
+                    <label for="terms-checkbox">Read the security terms</label>
+                </div>
+    
+                <div class="button-signin-modal">
+                    <button type="submit">SIGN UP</button>
+                    <button type="button" id="closeBtn">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>    
+
+    <script src="signup.js"></script>
+</body>
+</html>

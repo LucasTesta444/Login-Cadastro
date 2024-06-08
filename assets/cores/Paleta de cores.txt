@@ -1,0 +1,4 @@
+6A5ACD: #6A5ACD
+MediumSlateBlue: #7B68EE
+Lavender: #E6E6FA
+	
