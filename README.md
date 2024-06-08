@@ -1,6 +1,4 @@
-<h1 align="center">
-  <p>Bem-vindo ao repositório do projeto Tela de Login Interativa com Sistema de Cadastro! Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo fornecer uma interface simples e intuitiva para simular um sistema de login e cadastro🔒🔑</p> 
-</h1>
+### Bem-vindo ao repositório do projeto Tela de Login Interativa com Sistema de Cadastro! Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo fornecer uma interface simples e intuitiva para simular um sistema de login e cadastro🔒🔑
 
  ![Gif Do Projeto](/assets/img/FinnanceGif.gif)
 
