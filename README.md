@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 <h1 align="center">
-  <img src="assets/img/FINNANCES.png" width="200px" style="margin-bottom: 20" />
   <p>Bem-vindo ao repositório do projeto Tela de Login Interativa com Sistema de Cadastro! Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo fornecer uma interface simples e intuitiva para simular um sistema de login e cadastro🔒🔑</p> 
 </h1>
 
@@ -63,7 +61,3 @@ Se você tiver dúvidas ou sugestões, não hesite em entrar em contato.
 ***🚀 Boas codificações!***
 
 
-=======
-# Sistema-de-Login-Cadastro
-Este projeto em HTML, CSS e JS simula um sistema de login e cadastro. O cadastro armazena dados no LocalStorage para fins de demonstração. Após o cadastro, é possível realizar o login e acessar o app Finance, cuja página principal está em desenvolvimento.
->>>>>>> ebaff59b6ecdd63ff8a00b995c2ddeeae506c92e
