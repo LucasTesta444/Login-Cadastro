@@ -31,7 +31,7 @@ Atualmente, estamos trabalhando no desenvolvimento da página principal do aplic
 
 **1. Clone o Repositório:**
 ```bash 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/LucasTesta444/Login-Cadastro.git
 ```
 ***2. Abra o Projeto:***
 
